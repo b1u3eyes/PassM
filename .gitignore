@@ -49,3 +49,10 @@ Desktop.ini
 # User data — never commit
 vault.enc
 *.vault
+
+# Build artifacts
+AppPackages/
+
+# AI / agent instructions (local only, not for repo)
+AGENTS.md
+.github/instructions/
